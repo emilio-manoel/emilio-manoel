@@ -1,3 +1,6 @@
+<img width="1586" height="992" alt="Ecossistema React Neon no Futuro" src="https://github.com/user-attachments/assets/d2648fe3-2ad7-4006-a07d-6057c4d8ac16" />
+
+
 ## Hi there 👋
 
 <!--
