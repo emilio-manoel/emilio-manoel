@@ -7,7 +7,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** e entusiasta da tecn
 
 Atualmente, meu foco está no desenvolvimento Full-Stack, explorando tanto a construção de interfaces quanto a lógica de negócio e a integração entre aplicações.
 
-### 🚀 Tecnologias e ferramentas
 
 ## 🛠️ Tecnologias e Ferramentas
 
